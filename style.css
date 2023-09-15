@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #ecd616;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+
+.container {
+    text-align: center;
+    background-color: rgb(245, 251, 130);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    width: 350px;
+    height: 490px;
+  }
+
+#texto{
+    background-color: rgb(254, 255, 214);
+    padding: 20px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+#disabledText{
+    background-color: rgb(253, 255, 208);
+    padding: 40px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+button{
+    background-color: rgb(253, 255, 208);
+    padding: 10px;
+    border-radius: 5px;
+    border-color: black;
+}
